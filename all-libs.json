@@ -4,7 +4,7 @@
             "name": "createDraggableWindow",
             "friendlyName": "Create Draggable Window",
             "function": "createDraggableWindow()",
-            "file": "createDraggableWindow.js"
+            "file": "https://cdn.jsdelivr.net/gh/SilvanZwick/js-libs/libs/createDraggableWindow.js"
         }
     ]
 }
