@@ -1,0 +1,10 @@
+{
+    "libs": [
+        {
+            "name": "createDraggableWindow",
+            "friendlyName": "Create Draggable Window",
+            "function": "createDraggableWindow()",
+            "file": "createDraggableWindow.js"
+        }
+    ]
+}
